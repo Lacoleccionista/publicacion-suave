@@ -471,14 +471,19 @@ button {
   animation: parpadeo 1s infinite;
 }
 
+
 .svg-overlay {
   position: absolute;
   top: 10px;
   left: 15px;
-  width: 15%;
+  width: 12%;
   height: 5%;
   z-index: 9999;
 }
+
+
+
+
 
 .videoSidebar {
   display: flex;
